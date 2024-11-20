@@ -13,7 +13,7 @@ Monitor monthly and yearly trends in user behavior and website performance.
 
 This repository contains a Power BI dashboard for analyzing web traffic.
 
-[Dashboard Preview](https://github.com/DeepenSonone/Power-Bi/blob/main/sports%20website%20seo%20traffic.png)
+![Dashboard Preview](https://github.com/DeepenSonone/Power-Bi/blob/main/sports%20website%20seo%20traffic.png)
 
 ## Contents:
 
