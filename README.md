@@ -29,7 +29,7 @@ Clicks
 
 Power Bi Download Link - [Click Here](https://github.com/DeepenSonone/Power-Bi/blob/main/Sports%20Website%20SEO%20Traffic%20Web%20Analysis%20Power%20BI.pbix)
 
-PDF Link - [Click Here](https://github.com/DeepenSonone/Power-Bi/blob/main/Sports%20Website%20SEO%20Traffic%20Web%20Analysis%20Power%20BI.pdf)
+PDF Link - [Click Here](https://github.com/DeepenSonone/Power-Bi/blob/main/Sports%20SEO%20Traffic%20Web%20Analysis%20Power%20BI.pdf)
 
 ### Dimensions:
 Keywords
